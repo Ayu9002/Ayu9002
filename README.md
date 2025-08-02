@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjFhOXBjN3llbXJrZWs5ZGdjcHN6bHR2cXQ5Mzd3aHRwYjJ0bzM4NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VbnUQpnihPSIgIXuZv/giphy.gif" width="250px" alt="Funny game dev gif" />
+</p>
+
+---
 # 👾 About Me — Ayush Edition
 
 Hey there! I'm Ayush — people call me that even when I tell them not to... but it's fine, I've accepted my destiny.
